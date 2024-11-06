@@ -1,0 +1,14 @@
+.content-background {
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/project-kanvan.appspot.com/o/af5f83ff8d28380c635325ac09ecaf5b.jpg?alt=media&token=54b6698f-79f6-42f5-a1c6-8e3cdf1ff5cb');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hoverable-row:hover {
+  background-color: #e6f7e6;
+  /* Light green background on hover */
+}
